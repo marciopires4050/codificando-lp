@@ -9,5 +9,11 @@
 }
 
 .custom-logo {
-    height: 90px;
+    height: 40px;
+}
+
+.cor-amarelo{
+  height: 100vh;
+  min-height: 350px;
+ background-color: rgb(247, 251, 115);
 }
